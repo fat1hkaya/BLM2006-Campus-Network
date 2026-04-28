@@ -18,7 +18,7 @@ Bu proje, Marmara Üniversitesi Göztepe ve RTE kampüsleri için ölçeklenebil
 
 * **`/Simulation`**: Marmara-University-CAN.pkt (Cisco Packet Tracer simülasyon dosyası)
 * **`/Document`**: BLM2006-Rapor.pdf (Detaylı teknik proje raporu)
-* **`/Presentation`**: Proje-Sunumu.pptx (Proje sunum dosyası)
+* **`/Presentation`**: Proje-Sunumu.pdf (Proje sunum dosyası)
 
 ## 👥 Hazırlayanlar
 * Nesrin Güler
